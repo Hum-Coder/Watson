@@ -47,7 +47,7 @@ $ watson examine suspicious.png
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Hum-Coder/WatsonCTF/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Hum-Coder/Watson/main/install.sh | bash
 ```
 
 That's it. The script will:
